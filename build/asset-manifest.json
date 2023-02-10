@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9f27a897.css",
+    "main.js": "/static/js/main.8eeeb7a8.js",
+    "static/js/787.26793e03.chunk.js": "/static/js/787.26793e03.chunk.js",
+    "static/media/Ubuntu-Regular.ttf": "/static/media/Ubuntu-Regular.a6767dc546b61fb075f2.ttf",
+    "static/media/Ubuntu-Bold.ttf": "/static/media/Ubuntu-Bold.995358969571c1c37362.ttf",
+    "static/media/bg-01.jpg": "/static/media/bg-01.ca9f7b3f444e15c6437d.jpg",
+    "static/media/logo.svg": "/static/media/logo.7d5dd6ae93e3589168755ab8722402f8.svg",
+    "static/media/4964089.jpg": "/static/media/4964089.c548d799b9baede0ea1f.jpg",
+    "static/media/reset.svg": "/static/media/reset.e4543dec019c271d66fadebf9c6a64ef.svg",
+    "index.html": "/index.html",
+    "static/media/._favicon.ico": "/static/media/._favicon.6d139b5e535db1fa2c2b.ico",
+    "main.9f27a897.css.map": "/static/css/main.9f27a897.css.map",
+    "main.8eeeb7a8.js.map": "/static/js/main.8eeeb7a8.js.map",
+    "787.26793e03.chunk.js.map": "/static/js/787.26793e03.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f27a897.css",
+    "static/js/main.8eeeb7a8.js"
+  ]
+}
