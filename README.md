@@ -1,22 +1,16 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
+In the project directory, run the command:
 
 ### `npm start`
 
-Runs the app in the development mode.\
+Runs the app in localhost:
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-Run the code 
+then the command:
 ### `npm run build`
 
-The credintials:
-## Sekkahgp@gmail.com
-## SekkahApp123
+## The website link:
+https://sekkah.netlify.app
 
-The link:
-## https://sekkah.netlify.app/
+## The credintials:
+Sekkahgp@gmail.com
+SekkahApp123
