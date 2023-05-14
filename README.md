@@ -1,4 +1,5 @@
-In the project directory, run the command:
+How to install and run the code for the Admin
+In the project terminal, run the command:
 
 ### `npm start`
 
