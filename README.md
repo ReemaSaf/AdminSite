@@ -12,5 +12,5 @@ then the command:
 https://sekkah.netlify.app
 
 ## The credintials:
-Sekkahgp@gmail.com
-SekkahApp123
+Email: Sekkahgp@gmail.com
+password: SekkahApp123
